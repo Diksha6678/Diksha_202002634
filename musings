@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+   <title>My first styled page</title>
+   <style type="text/css">
+   body {
+       padding-left: 11em;
+       font-family: Georgia, "Times New Roman",
+         Times, serif;
+       color: purple;
+       background-color: #d8da3d; }
+ ul.navbar {
+      position: absolute;
+      top: 2em;
+      left: 1em;
+      width: 9em }
+ h1 {
+      font-family: Helvetica, Geneva, Arial,
+      SunSans-Regular, sans-serif }
+   </style>
+</head>
+
+<body>
+
+
+
+<!-- Site navigation menu -->
+<ul class="navbar">
+      <li><a href="index.html">Home page</a>
+      <li><a href="musings.html">Musings</a>
+      <li><a href="town.html">My town</a>
+      <li><a href="links.html">Links</a>
+</ul>
+
+
+
+<!-- Main content -->
+
+<h1>This page will tell you about some facts about life</h1>
+<p>You can never make everyone happy. 
+Life is much shorter than you think.
+Everyone you love is going to die.
+Money doesn't make you happy.
+Happiness is not the goal of life.
+</p>
+
+<img src="life.png"/>
+
+</body>
+</html>
+      
