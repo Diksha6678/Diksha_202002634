@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+   <title>My first styled page</title>
+   <style type="text/css">
+   body {
+       padding-left: 11em;
+       font-family: Georgia, "Times New Roman",
+         Times, serif;
+       color: purple;
+       background-color: #d8da3d; }
+ ul.navbar {
+      position: absolute;
+      top: 2em;
+      left: 1em;
+      width: 9em }
+ h1 {
+      font-family: Helvetica, Geneva, Arial,
+      SunSans-Regular, sans-serif }
+   </style>
+</head>
+
+<body>
+
+
+
+<!-- Site navigation menu -->
+<ul class="navbar">
+      <li><a href="index.html">Home page</a>
+      <li><a href="musings.html">Musings</a>
+      <li><a href="town.html">My town</a>
+      <li><a href="links.html">Links</a>
+</ul>
+
+
+
+<!-- Main content -->
+
+<h1>This page will tell you about my hometown</h1>
+<p> I am from Assandh, Karnal which is a very beautiful part of Haryana in India.</p>
+<h2>First of all I would like to throw some light on India.<h2>
+<p>India, officially the Republic of India (Hindi: Bhārat ),is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia. The nation's capital city is New Delhi.</p>
+<h3>This image is the national flag of india</h3>
+<img src="nationalflag.png"/>
+
+</body>
+</html>
